@@ -232,7 +232,7 @@
                 } else
                 {
                     if (opcion == 0) { break; }
-                }
+                } 
                 
                
                 /*switch que dependiendo la opcion se se elija del menu ejecutara el metodo correspondiente*/
@@ -323,7 +323,9 @@
 
             }
 
-            Console.WriteLine("faaaah");
+            
+
+            Console.WriteLine("termino....faaaah");
         }
     }
 }
